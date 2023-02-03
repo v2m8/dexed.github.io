@@ -1,4 +1,4 @@
-# dex.github.io
+# dexed.github.io
 
-dex.github.io/@
-dex.github.io/tobi
+dexed.github.io/@
+dexed.github.io/tobi
